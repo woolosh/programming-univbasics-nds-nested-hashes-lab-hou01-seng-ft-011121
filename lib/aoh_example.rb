@@ -32,7 +32,7 @@ end
 
 def aoh_lookup(aoh, row, key)
   
-  arr[2][:name]
+  aoh[2][:name]
   
 end
 
